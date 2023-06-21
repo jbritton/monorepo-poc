@@ -1,0 +1,11 @@
+{
+  "name": "yv2-mono",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "yarn workspaces foreach run build"
+  },
+  "packageManager": "yarn@3.6.0"
+}

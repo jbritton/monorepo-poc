@@ -1,0 +1,7 @@
+{
+  "name": "@yarn-mono/config",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Building config...'"
+  }
+}

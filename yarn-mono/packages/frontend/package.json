@@ -1,0 +1,6 @@
+{
+  "name": "@yarn-mono/frontend",
+  "scripts": {
+    "build": "echo 'Building frontend...'"
+  }
+}

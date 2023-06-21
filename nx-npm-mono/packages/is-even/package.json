@@ -1,0 +1,11 @@
+{
+  "name": "is-even",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  },
+  "scripts": {
+    "build": "tsc index.ts --outDir dist"
+  }
+}
